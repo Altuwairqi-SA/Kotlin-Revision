@@ -40,7 +40,7 @@ Kotlin Revision
 +=====================================================================+====================================================================================+
 | "likes John","John likes to watch movies. Mary likes movies too     | {likes=2, John=1}                                                                  |
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
-| "the to","Apart from counting words and characters, our online      |                                                                                    |
+| "the to and","Apart from counting words and characters, our online  |                                                                                    |
 | editor can help you to improve word choice and writing style, and,  |                                                                                    |
 | optionally, help you to detect grammar mistakes and plagiarism. to  |                                                                                    |
 | check word count, simply place your cursor into the text box above  |                                                                                    |
@@ -49,9 +49,24 @@ Kotlin Revision
 | also copy and paste text from another program over into the online  |                                                                                    |
 | editor above. The Auto-Save feature will make sure you won't lose   |                                                                                    |
 | any changes while editing, even if you leave the site and come back |                                                                                    |
-| later. "                                                            | {the=4, to=2}                                                                      |
+| later. "                                                            | {the=5, to=3, and=9}                                                               |
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
-| "likes John","John likes to watch movies. Mary likes movies too."   | {likes=2, John=1}                                                                  |
+| "Glass of is for","Glass is a non-crystalline, often transparent    |                                                                                    |
+| amorphous solid, that has widespread practical, technological, and  |                                                                                    |
+| decorative use in, for example, window panes, tableware, and optics.|                                                                                    |
+| Glass is most often formed by rapid cooling (quenching) of the      |                                                                                    |
+| molten form; some glasses such as volcanic glass are naturally      |                                                                                    |
+| occurring. The most familiar, and historically the oldest, types of |                                                                                    |
+| manufactured glass are "silicate glasses" based on the chemical     |                                                                                    |
+| compound silica (silicon dioxide, or quartz), the primary           |                                                                                    |
+| constituent of sand. Soda-lime glass, containing around 70% silica, |                                                                                    |
+| accounts for around 90% of manufactured glass. The term glass, in   |                                                                                    |
+| popular usage, is often used to refer only to this type of material,|                                                                                    |
+| although silica-free glasses often have desirable properties for    |                                                                                    |
+| applications in modern communications technology. Some objects, such|                                                                                    |
+| as drinking glasses and eyeglasses, are so commonly made of         |                                                                                    |
+| silicate-based glass that they are simply called by the name of     |                                                                                    |
+| the material."                                                      |      {glass=7, of=7, is=3, for=3}                                                  |
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
 
 
