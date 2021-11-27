@@ -35,14 +35,23 @@ Kotlin Revision
 **Question-Three:**
 
 - Write a function that takes two numbers. Given the two numbers output a list of multiples of that span the interval between each of the numbers. For example, given the numbers 4 and 20, your function should print the numbers 4, 8, 12, 16, and 20. This should occur even if the input were (20,4).
-+-------------------------------------------------------------------+------------------------------------------------------------------------------------+
-| Input                                                             | Output                                                                             |
-+===================================================================+====================================================================================+
-| "likes John","John likes to watch movies. Mary likes movies too." | {likes=2, John=1}                                                                  |
-+-------------------------------------------------------------------+------------------------------------------------------------------------------------+
-| "likes John","Apart from counting words and characters, our online editor can help you to improve word choice and writing style, and, optionally, help you to detect grammar mistakes and plagiarism. to check word count, simply place your cursor into the text box above and start typing. You'll see the number of characters and words increase or decrease as you type, delete, and edit them. You can also copy and paste text from another program over into the online editor above. The Auto-Save feature will make sure you won't lose any changes while editing, even if you leave the site and come back later. " | {the=4, to=2}                                                                      |
-+-------------------------------------------------------------------+------------------------------------------------------------------------------------+
-| "likes John","John likes to watch movies. Mary likes movies too." | {likes=2, John=1}                                                                  |
-+-------------------------------------------------------------------+------------------------------------------------------------------------------------+
++--------------------------------------------------------------------+------------------------------------------------------------------------------------+
+| Input                                                              | Output                                                                             |
++====================================================================+====================================================================================+
+| "likes John","John likes to watch movies. Mary likes movies too."  | {likes=2, John=1}                                                                  |
++--------------------------------------------------------------------+------------------------------------------------------------------------------------+
+| "likes John","Apart from counting words and characters, our online |                                                                                    |
+|editor can help you to improve word choice and writing style, and,  |                                                                                    |
+|optionally, help you to detect grammar mistakes and plagiarism. to  |                                                                                    |
+|check word count, simply place your cursor into the text box above  |                                                                                    |
+|and start typing. You'll see the number of characters and words     |                                                                                    |
+|increase or decrease as you type, delete, and edit them. You can    |                                                                                    |
+|also copy and paste text from another program over into the online  |                                                                                    |
+|editor above. The Auto-Save feature will make sure you won't lose   |                                                                                    |
+|any changes while editing, even if you leave the site and come back |                                                                                    |
+|later. "                                                            | {the=4, to=2}                                                                      |
++--------------------------------------------------------------------+------------------------------------------------------------------------------------+
+| "likes John","John likes to watch movies. Mary likes movies too."  | {likes=2, John=1}                                                                  |
++--------------------------------------------------------------------+------------------------------------------------------------------------------------+
 
 
