@@ -34,3 +34,15 @@ Kotlin Revision
 
 **Question-Three:**
 
+- Write a function that takes two numbers. Given the two numbers output a list of multiples of that span the interval between each of the numbers. For example, given the numbers 4 and 20, your function should print the numbers 4, 8, 12, 16, and 20. This should occur even if the input were (20,4).
++-------------------------------------------------------------------+------------------------------------------------------------------------------------+
+| Input                                                             | Output                                                                             |
++===================================================================+====================================================================================+
+| "likes John","John likes to watch movies. Mary likes movies too." | {likes=2, John=1}                                                                  |
++-------------------------------------------------------------------+------------------------------------------------------------------------------------+
+| "likes John","John likes to watch movies. Mary likes movies too." | {the=4, to=2}                                                                      |
++-------------------------------------------------------------------+------------------------------------------------------------------------------------+
+| "likes John","John likes to watch movies. Mary likes movies too." | {likes=2, John=1}                                                                  |
++-------------------------------------------------------------------+------------------------------------------------------------------------------------+
+
+
