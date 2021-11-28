@@ -35,11 +35,11 @@ Kotlin Revision
 
 **Question-Three:**
 
-- Write a function that takes two String which are search words and a paragraph and return the Map that contains each search word with the count of times it appears in the paragraph.
+- Write a function that takes two Strings which are search words and a paragraph and return the Map that contains each search word with the count of times it appears in the paragraph.
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
 | Input                                                               | Output                                                                             |
 +=====================================================================+====================================================================================+
-| "likes John","John likes to watch movies. Mary likes movies too     | {likes=2, John=1}                                                                  |
+| "likes John","John likes to watch movies. Mary likes movies too"    | {likes=2, John=1}                                                                  |
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
 | "the to and","Apart from counting words and characters, our online  |                                                                                    |
 | editor can help you to improve word choice and writing style, and,  |                                                                                    |
