@@ -2,7 +2,7 @@ Kotlin Revision
 ---------------------------
 Please try to solve it before seeing the answer file.
 
-**Question-One:** 
+**Challenge-One:** 
 
 - Write a function that takes two numbers (divisor number, max range number) and returns a list containing only the numbers divisible by a divisor number that are between 0 and max Range. Provide meaningful exception handling.
 +--------------------------------+------------------------------------------------------------------------------------+
@@ -17,7 +17,7 @@ Please try to solve it before seeing the answer file.
 +--------------------------------+------------------------------------------------------------------------------------+
 
 
-**Question-Two:** 
+**Challenge-Two:** 
 
 - Write a function that takes two numbers. Given the two numbers output a list of multiples of that span the interval between each of the numbers. For example, given the numbers 4 and 20, your function should print the numbers 4, 8, 12, 16, and 20. This should occur even if the input were (20,4).
 +--------------------------------+------------------------------------------------------------------------------------+
@@ -34,7 +34,7 @@ Please try to solve it before seeing the answer file.
 +--------------------------------+------------------------------------------------------------------------------------+
 
 
-**Question-Three:**
+**Challenge-Three:**
 
 - Write a function that takes two Strings which are search words and a paragraph and return the Map that contains each search word with the count of times it appears in the paragraph.
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
