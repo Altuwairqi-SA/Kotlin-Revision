@@ -1,5 +1,6 @@
 Kotlin Revision
 ---------------------------
+Please try to solve it before seeing the answer file.
 
 **Question-One:** 
 
