@@ -68,5 +68,3 @@ Kotlin Revision
 | silicate-based glass that they are simply called by the name of     |                                                                                    |
 | the material."                                                      |      {glass=7, of=7, is=3, for=3}                                                  |
 +---------------------------------------------------------------------+------------------------------------------------------------------------------------+
-
-
